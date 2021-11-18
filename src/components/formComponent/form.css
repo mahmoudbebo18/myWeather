@@ -1,0 +1,23 @@
+.form{
+    display: flex;
+    flex-direction: column;
+}
+.form input{
+    padding: 12px;
+    border: navajowhite;
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 16px;
+    border-radius: 5px;
+    outline: none;
+}
+.form button{
+    padding: 12px;
+    background-color: steelblue;
+    font-weight: bold;
+    border: none;
+    color:#fff;
+    text-transform: uppercase;
+    border-radius: 5px;
+    outline: none;
+    cursor: pointer;
+}
